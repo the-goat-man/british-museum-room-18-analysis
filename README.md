@@ -2,11 +2,11 @@
 
 ## About Us
 
-We are a university student team associated with *the British Museum* that studied visitor experience in *Room 18: The Parthenon*. This project was the culmination of our data collection.
+We are a university student team associated with *The British Museum* that studied visitor experience in *Room 18: The Parthenon*. This project was the culmination of our data collection.
 
 ## About the Project
 
-This project analyzed visitor movement and engagement within *Room 18: The Parthenon* at *the British Museum* to identify opportunities for improvements in the gallery's design.
+This project analyzed visitor movement and engagement within *Room 18: The Parthenon* at *The British Museum* to identify opportunities for improvements in the gallery's design.
 
 ## Database Setup
 
